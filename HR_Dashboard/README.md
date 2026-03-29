@@ -173,7 +173,7 @@ This dashboard enables:
 ```
 HR-Analytics-Dashboard/
 │
-├── Images/
+├── images/
 │   ├── HR_Summary.png
 │   ├── HR_Details.png
 │
