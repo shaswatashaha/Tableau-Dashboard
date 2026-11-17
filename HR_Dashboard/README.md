@@ -138,12 +138,9 @@ A custom Python script was developed to generate a **realistic HR dataset of 8,9
 ---
 
 ## 📊 Key Insights
-
-* Workforce growth and attrition trends over time
-* Salary disparities across gender and education levels
-* Department-wise employee distribution
-* Relationship between age, experience, and salary
-* Impact of education on performance
+* **Workforce Composition, Terminations & Geography:** Analysed **8,950** employee records, comprising **7,984** active employees and **966** terminated employees (**10.8%** recorded termination proportion). Across seven departments, **Operations (30.4%)**, **Sales (20.5%)**, and **Customer Service (18.7%)** account for approximately **69.5%** of the active workforce. **Finance** has the highest departmental termination proportion (**13.9%**), compared with **9.7%** in **Marketing**. Approximately **70%** of active employees are based in **New York (HQ)**, while **30%** work across regional branches.
+* **Education, Performance & Compensation:** Across all 8,950 records, average salary increases from approximately **$62.1K** among High School graduates to **$86.0K** among PhD holders (**38.4%** difference). The proportion of employees rated *Excellent* also varies by education level, ranging from **12.9%** among High School graduates to **35.4%** among Master's and **47.7%** among PhD holders.
+* **Gender Representation & Compensation Analysis:** Active employees are **53.7% Male** and **46.3% Female**. Across all records, male Bachelor's holders earn approximately **12.0%** more on average than female counterparts, while female employees have higher average salaries among Master's (approximately **$86.3K vs. $79.5K**) and PhD holders (**$92.7K vs. $79.7K**). Average salaries across job titles range from approximately **$60.6K** for HR Assistants to **$125.1K** for Finance Managers. *(Note: These are descriptive, unadjusted comparisons rather than causal or pay-equity conclusions.)*
 
 ---
 
