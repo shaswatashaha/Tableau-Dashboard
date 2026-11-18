@@ -120,7 +120,7 @@ A custom Python script was developed to generate a **realistic HR dataset of 8,9
 * Overtime status (30% Yes, 70% No)
 * Salary ranges based on role and department
 * Birth dates consistent with job roles and hiring dates
-* 11.2% employee attrition with valid termination dates
+* 10.8% employee attrition with valid termination dates
 * Adjusted salary based on:
 
   * Gender
